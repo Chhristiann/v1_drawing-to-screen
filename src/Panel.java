@@ -43,7 +43,5 @@ public class Panel extends JPanel {
         g2D.setPaint(Color.BLACK);
         g2D.setFont(new Font("Ink Free", Font.BOLD, 50));
         g2D.drawString("U R Cool Man! :D", 50, 50);
-
-        g2D.
     }
 }
